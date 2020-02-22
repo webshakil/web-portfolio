@@ -1,0 +1,27 @@
+body {
+  font-family: 'Poppins';
+}
+.name-highlight {
+  color: orange;
+}
+
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 10%;
+}
+.half-width img {
+  width: 69%;
+}
+
+.my-latest-work img {
+  width: 33%;
+  float: left;
+}
+.my-latest-work {
+  margin-top: 154px;
+  /* padding-top: 9px; */
+}
+.client {
+  text-align: center;
+}
