@@ -25,3 +25,22 @@ body {
 .client {
   text-align: center;
 }
+.client h1 {
+  padding-top: 153px;
+}
+
+.footer-area {
+  text-align: center;
+  padding-top: 55px;
+}
+
+.contact {
+  background-color: red;
+  width: 300px;
+  /* border: 15px solid green; */
+  padding: 50px;
+  margin: 20px;
+  position: relative;
+  top: auto;
+  left: 558px;
+}
