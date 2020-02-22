@@ -44,3 +44,10 @@ body {
   top: auto;
   left: 558px;
 }
+
+button.hire-me {
+  background-color: #008cba;
+  width: 129px;
+  height: 50px;
+  border-radius: 7px;
+}
